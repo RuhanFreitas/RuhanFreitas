@@ -1,4 +1,4 @@
-## About
+## Me
 
 - 🗃️ <a href="https://ruhanfreitas.com">Portfolio</a>
 - 📱 <a href="/">Media</a>

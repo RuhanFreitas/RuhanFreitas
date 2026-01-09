@@ -23,7 +23,7 @@ I'm currently pursuing a **Bachelor's degree in Software Engineering** (5th seme
 - Role: **Software Engineer / Full Stack Developer**
 - Level: **Junior to Mid-level**
 - Work model: **Remote (preferred), open to relocation**
-- Contract: **CLT or PJ**
+- Contract: **Full-time employment or contractor**
 - Location: **International opportunities**
 - English: **Fluent**
 

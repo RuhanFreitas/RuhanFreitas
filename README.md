@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Ruhan, a Software Engineer based in Brazil 🇧🇷, currently seeking international opportunities.
+I'm Ruhan, a Software Engineer based in Brazil 🇧🇷, currently seeking opportunities.
 
 I'm a **Full Stack Developer** with around **4 years of experience learning and building software**, and **1 year of professional experience** as a Programming Instructor at **Ctrl+Play**, where I taught programming fundamentals and helped students develop logical thinking and real projects.
 

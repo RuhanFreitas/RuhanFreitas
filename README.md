@@ -11,7 +11,7 @@ I'm currently pursuing a **Bachelor's degree in Software Engineering** (5th seme
 ### 💻 Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Python  
-- **Frameworks/Libraries:** React.js, Next.js, NestJS, Express, Django, Flask
+- **Frameworks/Libraries:** React.js, Next.js, NestJS, Express, FastAPI
 - **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB
 - **Cloud & DevOps:** Docker, Google Cloud Platform (GCP)
 

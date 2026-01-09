@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there! 👋
 
+I'm Ruhan, a Software Engineer based in Brazil.
 <!--
 **RuhanFreitas/RuhanFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 I'm Ruhan, a Software Engineer based in Brazil 🇧🇷, currently seeking opportunities.
 
-I'm a **Full Stack Developer** with around **4 years of experience learning and building software**, and **1 year of professional experience** as a Programming Instructor at **Ctrl+Play**, where I taught programming concepts and helped students develop logical thinking and real projects.
+I'm a **Full Stack Developer** with **1 year of professional experience** as a Programming Instructor at **Ctrl+Play**, where I taught programming concepts and helped students develop logical thinking and real projects.
 
 I'm currently pursuing a **Bachelor's degree in Software Engineering** (5th semester out of 7).
 

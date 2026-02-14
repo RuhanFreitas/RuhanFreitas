@@ -19,7 +19,7 @@ I'm currently pursuing a **Bachelor's degree in Software Engineering** (5th seme
 
 ### 🎯 What I'm Looking For
 
-- Role: **Software Engineer / Full Stack Developer**
+- Role: **Software Engineer / Backend Developer**
 - Level: **Junior to Mid-level**
 - Work model: **Remote (preferred), open to relocation**
 - Contract: **Full-time employment or contractor**
